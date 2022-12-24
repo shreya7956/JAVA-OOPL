@@ -95,3 +95,25 @@ class Complex_No{
          //calling division function
       }
     }
+/*============output=====================
+Enter the complex number in a+bi format :
+Enter real part of First number :a :
+4
+Enter img part of First number :b :
+5.3
+Enter real part of Second number :a :
+2.7
+Enter img part of Second number :b :
+-6.4
+
+First Complex Numbers=(4.0)+(5.3)i
+Secon Complex Numbers=(2.7)+(-6.4)i
+
+Addition of complex Numbers=(6.7)+(-1.0999999)i
+
+Substrction of complex Numbers=(1.3)+(11.700001)i
+
+Multiplication of complex Numbers=(10.8)+(-33.920002)i
+
+Division of complex Numbers=(1.4814814)+(-0.828125)i
+*/
